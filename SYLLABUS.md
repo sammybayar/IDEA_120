@@ -1,5 +1,5 @@
 # IDEA 120: Digital Practices in Art and Design
-### Syllabus for Spring 2022
+### Syllabus for Spring 2024
 
 ![Alison Knowles, House of Dust](knowles_house_of_dust.png)
 <sup>*Excerpt from [Alison Knowles 'House of Dust'](https://www.damnmagazine.net/2016/09/07/the-house-of-dust-by-alison-knowles/)*</sup>
@@ -18,7 +18,6 @@
 * [Revision Policy](#revision-policy)
 * [Course Expectations and Course Assignment Policy](#course-expectations-and-course-assignment-policy)
 * [Disability Accommodation](#disability-accommodation)
-* [COVID-19 Safety Protocols and Policies](#covid-19-safety-protocols-and-policies)
 
 ***
 
@@ -32,7 +31,7 @@ This document is the current syllabus with the course description, expectations,
 
 ### Course Format, Zoom Meeting Details
 
-IDEA 120 is a [semi-synchronous class](https://en.wikipedia.org/wiki/Asynchronous_learning) with required discussions on Thursdays and open office hours on Tuesdays. One-on-one meetings can be scheduled through Calendly (see info below). Depending on the progress and general mood of the class, attendance may sometimes be required on Tuesdays, but at least one week's notice.
+IDEA 120 is a [semi-synchronous class](https://en.wikipedia.org/wiki/Asynchronous_learning) with required, in-person discussions on Tuesdays from 9:30-10:45 (Art & Exhibition Hall, Room 5202) and open office hours on Thursdays. One-on-one meetings can be scheduled through Calendly (see info below). Depending on the progress and general mood of the class, attendance may sometimes be required on Thursdays, but at least one week's notice.
 
 Extensive computer and internet use is required. If you do not have access to a laptop, [you may request to borrow one from the university](https://it.uic.edu/services-support/student-resources/online-learning/).
 
@@ -40,7 +39,7 @@ Extensive computer and internet use is required. If you do not have access to a 
 
 ### Instructor
 
-Tim Kwasny / (New) Media Artist, Prof/Instructor in ART and IDEAS  / [tkwasny@uic.edu](mailto:tkwasny@uic.edu) 
+Tiffany Funk / (New) Media Artist && Art Historian, Visiting Assistant Professor in ART and IDEAS  / [tfunk4@uic.edu](mailto:tfunk4@uic.edu) 
 
 ***
 
@@ -52,7 +51,7 @@ Tim Kwasny / (New) Media Artist, Prof/Instructor in ART and IDEAS  / [tkwasny@ui
 
 ### Course Description
 
-Digital media - like Instagram photos, TikTok stories, Google searches, Buzzfeed and Boing Boing articles, Reddit threads, and WhatsApp messages - combines to form the vast majority of the content most of us create and consume every day. Existing digital media and the digitized versions of the old media before it are available to more people than ever before, while even more digital content is created each day than in the whole of human history up to the creation of the internet. Protests, social justice movements, and political campaigns are won or lost through online organization and the dissemination of viral digital media. And this list of influences digital media holds in our lives still continues to grow and grow. In the vast interconnected global village of the internet, who are we in relationship to and how do we thoughtfully read digital media? And, even more, what skills are most useful to strengthen our careers and communities, and lead our own creative endeavors and social movements in this media landscape? These are some of the primary questions we will be exploring in this digital practices course.
+Digital media - like Instagram photos, TikTok stories, Google searches, Reddit threads, and WhatsApp messages - combine to form the vast majority of the content we create and consume daily. Existing digital media and the digitized versions of the old media before it are available to more people than ever before, while even more digital content is created each day than in the whole of human history up to the creation of the internet. Protests, social justice movements, and political campaigns are won or lost through online organization and the dissemination of viral digital media. And this list of influences digital media holds in our lives continues to grow. In the vast interconnected global village of the internet, who are we in relationship to and how do we thoughtfully read digital media? And, even more, what skills are most useful to strengthen our careers and communities and lead our own creative endeavors and social movements in this media landscape? These are some of the primary questions we will be exploring in this digital practices course.
 
 * Our course explores digital media as an art form, bringing it together with design, cultural and technology studies, and into an interactive, collaborative class.
 * Our course is oriented toward making, writing, building and identifying relevant skills for a digital media toolkit and historical and theoretical introductions to practices that will be useful for creative and critical thinkers working across disciplines.
@@ -91,7 +90,7 @@ We will make extensive use of Git and GitHub to post writing responses, project 
 
 [Git](https://en.wikipedia.org/wiki/Git) is a file management system primarily used by programmers in software development (and also used by artists, writers, designers, scientists, among many others) that allows them to manage their projects as "repositories" or all-inclusive packages that can be managed and new versions updated ("pushed" to a server) easily. [GitHub](https://www.howtogeek.com/180167/htg-explains-what-is-github-and-what-do-geeks-use-it-for/) is a web service that hosts these repositories. GitHub uses Git, but Git does not necessarily use GitHub.
 
-A free GitHub account is required for this class. [Create an account here](https://github.com/join) and [email me at tkwasny@uic.edu](mailto:tkwasny@uic.edu) with your GitHub username.
+A free GitHub account is required for this class. [Create an account here](https://github.com/join) and [email me at tfunk4@uic.edu](mailto:tfunk4@uic.edu) with your GitHub username.
 
 ***
 
@@ -125,17 +124,3 @@ This is a four hour course. You should expect to read, watch, or listen to aroun
 The University of Illinois at Chicago is committed to maintaining a barrier-free environment so that students with disabilities can fully access programs, courses, services, and activities at UIC. Students with disabilities who require accommodations for access to and/or participation in this course are welcome, but must be registered with the Disability Resource Center (DRC). You may contact DRC at 312-413-2183 (v) or 773-649-4535 (VP/Relay) and consult the following:
 
 [http://drc.uic.edu/guide-to-accommodations](http://drc.uic.edu/guide-to-accommodations)
-
-***
-
-### COVID-19 Safety Protocols and Policies
-
-General guidance for those attending in person classes:
-
-Face Masks: Masks must be worn at all times by all students, faculty, and staff while on campus, whether in or out of class, in all offices, on all pathways, and inside and outside of all buildings, in accordance with University policies. If you do not wear a mask, you will be asked to leave the classroom and will not be allowed back in class unless or until you wear a mask. Eating and drinking is not allowed in classrooms.
-
-Social Distancing: We all must maintain appropriate social distancing at all times, whether in or out of class, in all offices, on all pathways, and inside and outside of all buildings. On-campus classes are being held in classrooms that are large enough to maintain a minimum physical distance of 6 feet (or two arm’s length) between people; we will implement assigned seating to ensure social distancing is observed and also to make contact tracing easier if there is an incident of COVID-19 infection in our class.
-
-Hand Washing, Sanitizing: Everyone is expected to wash or sanitize their hands before class, either by using personal sanitizer or by using one of the sanitizer dispensers located on campus. Please remember to wash your hands with soap for 20 seconds or more. If using hand sanitizer, please remember it should be at least 60% alcohol and you should rub your hands together until dry.
-
-***
