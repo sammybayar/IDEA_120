@@ -1,21 +1,21 @@
 # IDEA 120: Digital Practices in Art and Design
-### Schedule for Spring 2023
+### Schedule for Spring 2024
 
 ![Jodi, 'wwwwwwwww'](jodi_wwwwwwwww.png)
 <sup>*Screenshot from [Jodi (Collective) 'wwwwwwwww'](http://wwwwwwwww.jodi.org/)*</sup>
 
 #### Contents
 * [Introduction and About the Schedule](#introduction-and-about-the-schedule)
-* Week 1: [Week of January 9, 2022](#week-1)
-* Week 2: [Week of January 16, 2022](#week-2)
-* Week 3: [Week of January 23, 2022](#week-3)
-* Week 4: [Week of January 30, 2022](#week-4)
-* Week 5: [Week of February 6, 2022](#week-5)
-* Week 6: [Week of February 13, 2022](#week-6)
-* Week 7: [Week of February 20, 2022](#week-7)
-* Week 8: [Week of February 27, 2022](#week-8)
-* Week 9: [Week of March 6, 2022](#week-9)
-* Week 10: [Week of March 13, 2022](#week-10)
+* Week 1: [January 9, 2022](#week-1)
+* Week 2: [January 16, 2022](#week-2)
+* Week 3: [January 23, 2022](#week-3)
+* Week 4: [January 30, 2022](#week-4)
+* Week 5: [February 6, 2022](#week-5)
+* Week 6: [February 13, 2022](#week-6)
+* Week 7: [February 20, 2022](#week-7)
+* Week 8: [February 27, 2022](#week-8)
+* Week 9: [March 6, 2022](#week-9)
+* Week 10: [March 13, 2022](#week-10)
 * Week 11: [SPRING BREAK - no class](#week-11)
 * Week 12: [Week of March 27, 2022](#week-12)
 * Week 13: [Week of April 3, 2022](#week-13)
@@ -36,20 +36,21 @@ In this document, under each week there are a list of assigned videos, texts, an
 ## Unit 1: A Brief History of Digital Computing and the Arts
 
 ### Week 1
-#### Week of January 11, 2022: Course Introduction
+#### January 9, 2023: Course Introduction
 
-This first week you should review the [course syllabus](SYLLABUS.md) and access your first lecture, reading, and assignments. I (Tiffany) will hold open office hours on Thursday, January 14, via Zoom. Zoom invite details are on Blackboard.
+This first week you should review the [course syllabus](SYLLABUS.md) and access your first lecture, reading, and assignments. I (Tiffany) will hold open office hours on Thursday, January 11, via Zoom. Zoom invite details are on Blackboard.
 
 DUE **Thursday, January 14**:
 * Review [course syllabus](SYLLABUS.md)
 * DOWNLOAD and review [Week 1 guide](https://docs.google.com/presentation/d/1CWfBMEoSHCvFx0WdQB7-BuJkrtODb3ga_s1rdj0_5q4/edit?usp=sharing)
 * Read [Rachel Green, Web Work - A History of Net Art](/week_01_week_of_01-11-2021/readings/Rachel-Green-Web-Work-A-History-of-Net-Art-WEEK-01.pdf)
-
-Tuesday Recording:
-https://uic.zoom.us/rec/share/T9IhmfjwtPb0DfdZqBCDZx4axUfIebDDmXwIO9PW8ltW-tReCYaiiE5iBuBYQjF_.owTlsrmhGxeixSbr
-
-Thursday Recording:
-https://uic.zoom.us/rec/share/43HqqCj9VBPQ_jzAcv0dSs3FAf83PcvNmLgttacm2-oIXgYQgFs6RWK5oNzsG44a.I8RVkUr7PtW0cYgD
+* Assignment: create a github account (if you do not already have one, and create your FIRST REPOSITORY in GITHUB!
+  - I will email you an invitation to the github "IDEA Organization" so you will have access to the materials.
+  - When you create your first repository, name it "New Media Artists"
+  - Include a README.md file!
+  - Edit the README.md file to list the new media artists from the Week 1 guide.
+  - List more new media artists from the Rachel Green reading.
+  - This will be an ongoing resource for you to refer to throughout the semester.
 
 ***
 
