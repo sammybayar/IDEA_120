@@ -14,14 +14,14 @@
 * Week 6: [February 13, 2024](#week-6)
 * Week 7: [February 20, 2024](#week-7)
 * Week 8: [February 27, 2024](#week-8)
-* Week 9: [March 6, 2024](#week-9)
-* Week 10: [March 13, 2024](#week-10)
+* Week 9: [March 5, 2024](#week-9)
+* Week 10: [March 12, 2024](#week-10)
 * Week 11: [SPRING BREAK - no class](#week-11)
-* Week 12: [March 27, 2024](#week-12)
-* Week 13: [April 3, 2024](#week-13)
-* Week 14: [April 10, 2024](#week-14)
-* Week 15: [April 17, 2024](#week-15)
-* Week 16: [April 24, 2024](#week-16)
+* Week 12: [March 26, 2024](#week-12)
+* Week 13: [April 2, 2024](#week-13)
+* Week 14: [April 9, 2024](#week-14)
+* Week 15: [April 16, 2024](#week-15)
+* Week 16: [April 23, 2024](#week-16)
 
 ***
 
