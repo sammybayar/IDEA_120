@@ -44,13 +44,6 @@ DUE **Thursday, January 14**:
 * Review [course syllabus](SYLLABUS.md)
 * DOWNLOAD and review [Week 1 guide](https://docs.google.com/presentation/d/1CWfBMEoSHCvFx0WdQB7-BuJkrtODb3ga_s1rdj0_5q4/edit?usp=sharing)
 * Read [Rachel Green, Web Work - A History of Net Art](/week_01_week_of_01-11-2021/readings/Rachel-Green-Web-Work-A-History-of-Net-Art-WEEK-01.pdf)
-* Assignment: create a github account (if you do not already have one, and create your FIRST REPOSITORY in GITHUB!
-  - I will email you an invitation to the github "IDEA Organization" so you will have access to the materials.
-  - When you create your first repository, name it "New Media Artists"
-  - Include a README.md file!
-  - Edit the README.md file to list the new media artists from the Week 1 guide.
-  - List more new media artists from the Rachel Green reading.
-  - This will be an ongoing resource for you to refer to throughout the semester.
 
 ***
 
