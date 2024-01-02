@@ -60,19 +60,13 @@ DUE **Thursday, January 14**:
 DUE **Thursday, January 19**:
 * DOWNLOAD and review [Week 2 guide](https://docs.google.com/presentation/d/1eJpnWnj7eaZ4ezTom1rtXaewIAAxGGN9wRQdRqQTwRE/edit?usp=sharing)
 * [Watch Lecture: Early Computing and the Arts](https://vimeo.com/452741250/0b4773d055)
-* Read [Janet Murray, Hamlet on the Holodeck: Chapter 3](/week_02_week_of_01-18-2021/readings/Janet-Murray-Hamlet-on-the-Holodeck-Chapter-3-WEEK-02.pdf)
+* Read [Janet Murray, Hamlet on the Holodeck: Chapter 3](Week_01/Rachel-Green-Web-Work-A-History-of-Net-Art-WEEK-01.pdf)
 * Watch [Daniel Shiffman, Git and GitHub for Poets](https://www.youtube.com/watch?v=BCQHnlnPusY)
 * Create [a new GitHub Account](https://github.com/join)
 * Email your GitHub username to: [tfunk4@uic.edu](mailto:tfunk4@uic.edu)
 * Create [a new public repository (Step 1 only)](https://guides.github.com/activities/hello-world/#repository) and name it 'idea-120-responses-YOUR_GITHUB_USERNAME'
 * Create a new [markdown](https://guides.github.com/features/mastering-markdown/#what) file [called 'week-02-murray-poem.md'](https://docs.github.com/en/github/managing-files-in-a-repository/creating-new-files) and write a five-line poem about the Murray reading. Using [GitHub markdown syntax](https://guides.github.com/features/mastering-markdown/#what) link to any YouTube video that you feel is related to your poem and include at least 2 images
 * 'Commit' the new file to your repository with a description
-
-Tuesday Recording:
-https://uic.zoom.us/rec/share/iREObjzaRJPieW6boJ044DokUVTe4i6jlg9de7lti8XmFl5pWgOhTKK0MaUJDT9t.O20bLNYvHidNz75o
-
-Thursday Recording:
-https://uic.zoom.us/rec/share/H9RcS82JN28Pr0O1zjBJBaComG5eRgKfNRA1thtm5orT8CHWOYW34JKlNtxyiuqT.d_X0kEwvO7KVQ3l1
 
 ***
 
