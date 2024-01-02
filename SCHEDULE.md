@@ -67,20 +67,13 @@ DUE **Thursday, January 19**:
 #### Week of January 23, 2022: A Brief History of (Digital, and other) Media in Art
 
 DUE **Thursday, January 26**:
-* DOWNLOAD and review [Week 3 guide](/week_03_week_of_01-25-2021/wk03_digitalhistory.pdf)
-* [Watch Lecture: A Brief History of the Internet](https://vimeo.com/453838373/165226d296)
-* Review [Week 3 guide](/week_03_week_of_01-25-2021/wk03_digital_history.pdf)
+* DOWNLOAD and review [Week 3 guide](https://docs.google.com/presentation/d/1l9JQIzBcL0MjvTACfpybLckH2I715cSbrfZn5sE8Ps8/edit?usp=sharing)
+* [Watch Documentary: Lo and Behold, Werner Herzog (2016)](https://www.dailymotion.com/video/x8njx91)
 * Explore [Chapter 1: 1984-1998 of the Rhizome Anthology of Net Art](https://anthology.rhizome.org/) and read and look at the examples of early art on the world wide web.
 * Read [Chris Salter, Entangled](/week_03_week_of_01-25-2021/readings/Chris-Salter-Entangled-WEEK-03.pdf)
 * Respond to the reading by creating a new markdown file named 'week-03-salter.md' in your 'idea-120-responses' repository and write 2-3 paragraphs that explore what contemporary tools (digital or physical) could be used to create art that could be considered a *Gesamtkunstwerk*. Is there an example in the Rhizome Anthology that could qualify?
  * Be sure to format your writing (including a header for your title) using [markdown syntax](https://guides.github.com/features/mastering-markdown/) and add a hidden message (or [ASCII-text-image](https://www.asciiart.eu/art-and-design/mona-lisa)) using [HTML comments](https://www.w3schools.com/html/html_comments.asp)
 * Read the description for [Project 1: GitHub Poetry (due week 5)](/week_03_week_of_01-25-2021/project-1-github-poetry.md) and follow the instructions there to create a GitHub pages site
-
-Tuesday Recording:
-https://uic.zoom.us/rec/share/XRm0-eePJipLaGMQTnpppfs6io9R3V96Ir6oeeI-objPbU3Vq2hCayM57LBbRkTH.Ogh972ZyR7RUiN8z
-
-Thursday Recording:
-https://uic.zoom.us/rec/share/LPKflAFsg2lEIMh5v13hcO-xF0DPYBERBvz9ux5APdHeYvosN79x3ocj9sSgDRhy.ahLcILMoBWdFGtU2
 
 ***
 
