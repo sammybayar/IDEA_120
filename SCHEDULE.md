@@ -53,7 +53,6 @@ DUE **Thursday, January 14**:
 
 DUE **Thursday, January 19**:
 * DOWNLOAD and review [Week 2 guide](https://docs.google.com/presentation/d/1eJpnWnj7eaZ4ezTom1rtXaewIAAxGGN9wRQdRqQTwRE/edit?usp=sharing)
-* [Watch Lecture: Early Computing and the Arts](https://vimeo.com/452741250/0b4773d055)
 * Read [Janet Murray, Hamlet on the Holodeck: Chapter 3](Week_01/Rachel-Green-Web-Work-A-History-of-Net-Art-WEEK-01.pdf)
 * Watch [Daniel Shiffman, Git and GitHub for Poets](https://www.youtube.com/watch?v=BCQHnlnPusY)
 * Create [a new GitHub Account](https://github.com/join)
