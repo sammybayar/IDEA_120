@@ -36,19 +36,19 @@ In this document, under each week there are a list of assigned videos, texts, an
 ## Unit 1: A Brief History of Digital Computing and the Arts
 
 ### Week 1
-#### January 9, 2023: Course Introduction
+#### January 9, 2024: Course Introduction
 
 This first week you should review the [course syllabus](SYLLABUS.md) and access your first lecture, reading, and assignments. I (Tiffany) will hold open office hours on Thursday, January 11, via Zoom. Zoom invite details are on Blackboard.
 
 DUE **Thursday, January 14**:
 * Review [course syllabus](SYLLABUS.md)
 * DOWNLOAD and review [Week 1 guide](https://docs.google.com/presentation/d/1CWfBMEoSHCvFx0WdQB7-BuJkrtODb3ga_s1rdj0_5q4/edit?usp=sharing)
-* Read [Rachel Green, Web Work - A History of Net Art](/week_01_week_of_01-11-2021/readings/Rachel-Green-Web-Work-A-History-of-Net-Art-WEEK-01.pdf)
+* Read [Rachel Green, Web Work - A History of Net Art](Week_01/Rachel-Green-Web-Work-A-History-of-Net-Art-WEEK-01.pdf)
 
 ***
 
 ### Week 2
-#### Week of January 16, 2022: Computing in Design and Arts Practices
+#### Week of January 16, 2024: Computing in Design and Arts Practices
 
 DUE **Thursday, January 19**:
 * DOWNLOAD and review [Week 2 guide](https://docs.google.com/presentation/d/1eJpnWnj7eaZ4ezTom1rtXaewIAAxGGN9wRQdRqQTwRE/edit?usp=sharing)
