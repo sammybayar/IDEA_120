@@ -43,7 +43,7 @@ This first week you should review the [course syllabus](SYLLABUS.md) and access 
 DUE **Thursday, January 14**:
 * Review [course syllabus](SYLLABUS.md)
 * DOWNLOAD and review [Week 1 guide](https://docs.google.com/presentation/d/1CWfBMEoSHCvFx0WdQB7-BuJkrtODb3ga_s1rdj0_5q4/edit?usp=sharing)
-* Read [Rachel Green, Web Work - A History of Net Art](Week_01/Rachel-Green-Web-Work-A-History-of-Net-Art-WEEK-01.pdf)
+* Read [Rachel Green, Web Work - A History of Net Art](week_01/Rachel-Green-Web-Work-A-History-of-Net-Art-WEEK-01.pdf)
 * Explore [Chapter 1: 1984-1998 of the Rhizome Anthology of Net Art](https://anthology.rhizome.org/) and read and look at the examples of early art on the world wide web.
 
 ***
@@ -53,7 +53,7 @@ DUE **Thursday, January 14**:
 
 DUE **Thursday, January 19**:
 * DOWNLOAD and review [Week 2 guide](https://docs.google.com/presentation/d/1eJpnWnj7eaZ4ezTom1rtXaewIAAxGGN9wRQdRqQTwRE/edit?usp=sharing)
-* Read [Janet Murray, Hamlet on the Holodeck: Chapter 3](Week_01/Rachel-Green-Web-Work-A-History-of-Net-Art-WEEK-01.pdf)
+* Read [Janet Murray, Hamlet on the Holodeck: Chapter 3](week_02/Janet-Murray-Hamlet-on-the-Holodeck-Chapter-3-WEEK-02.pdf)
 * Watch [Daniel Shiffman, Git and GitHub for Poets](https://www.youtube.com/watch?v=BCQHnlnPusY)
 * Create [a new GitHub Account](https://github.com/join)
 * Email your GitHub username to: [tfunk4@uic.edu](mailto:tfunk4@uic.edu)
