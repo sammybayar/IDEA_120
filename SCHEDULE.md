@@ -38,7 +38,7 @@ In this document, under each week there are a list of assigned videos, texts, an
 ### Week 1
 #### January 9, 2024: Course Introduction
 
-This first week you should review the [course syllabus](SYLLABUS.md) and access your first lecture, reading, and assignments. I (Tiffany) will hold open office hours on Thursday, January 11, via Zoom. Zoom invite details are on Blackboard.
+This first week you should review the [course syllabus](SYLLABUS.md) and access your first lecture guide, reading, and assignments. I (Tiffany) will hold open office hours on Thursday, January 11, via Zoom. Zoom invite details will be on Blackboard.
 
 DUE **Thursday, January 14**:
 * Review [course syllabus](SYLLABUS.md)
@@ -58,8 +58,8 @@ DUE **Thursday, January 19**:
 * Create [a new GitHub Account](https://github.com/join)
 * Email your GitHub username to: [tfunk4@uic.edu](mailto:tfunk4@uic.edu)
 * Create [a new public repository (Step 1 only)](https://guides.github.com/activities/hello-world/#repository) and name it 'idea-120-responses-YOUR_GITHUB_USERNAME'
-* Create a new [markdown](https://guides.github.com/features/mastering-markdown/#what) file [called 'week-02-murray-poem.md'](https://docs.github.com/en/github/managing-files-in-a-repository/creating-new-files) and write a five-line poem about the Murray reading. Using [GitHub markdown syntax](https://guides.github.com/features/mastering-markdown/#what) link to any YouTube video that you feel is related to your poem and include at least 2 images
-* 'Commit' the new file to your repository with a description
+* Create a new [markdown](https://guides.github.com/features/mastering-markdown/#what) file [called 'week-02-murray-poem.md'](https://docs.github.com/en/github/managing-files-in-a-repository/creating-new-files) and write a five-line poem about the Murray reading. Using [GitHub markdown syntax](https://guides.github.com/features/mastering-markdown/#what) link to any YouTube video that you feel is related to your poem and include at least 2 images. 
+* 'Commit' the new file to your repository with a description. We'll discuss your results in discussion on Tuesday, January 23rd.
 
 ***
 
