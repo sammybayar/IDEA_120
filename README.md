@@ -3,7 +3,7 @@
 
 ### Overview for Spring 2024
 
-Welcome to IDEA 120 for Spring 2024. This GitHub repository is the central location for all course content including lecture videos and readings.
+Welcome to IDEA 120 for Spring 2024. This GitHub repository is the central location for all course content including lectures, videos, and readings.
 
 The course [syllabus](/SYLLABUS.md) and [schedule](/SCHEDULE.md) will be updated regularly as the semester progresses.
 
@@ -11,7 +11,7 @@ Email me (Tiffany) at [tfunk4@uic.edu](mailto:tfunk4@uic.edu) if you have questi
 
 Schedule a time to meet via Zoom during office hours:
 
-<!-- Google Calendar Appointment Scheduling begin -->
+<HTML><!-- Google Calendar Appointment Scheduling begin -->
 <link href="https://calendar.google.com/calendar/scheduling-button-script.css" rel="stylesheet">
 <script src="https://calendar.google.com/calendar/scheduling-button-script.js" async></script>
 <script>
@@ -26,5 +26,5 @@ Schedule a time to meet via Zoom during office hours:
     });
   });
 })();
-</script>
+</script></HTML>
 <!-- end Google Calendar Appointment Scheduling -->
