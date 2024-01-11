@@ -40,7 +40,7 @@ In this document, under each week there are a list of assigned videos, texts, an
 
 This first week you should review the [course syllabus](SYLLABUS.md) and access your first lecture guide, reading, and assignments. I (Tiffany) will hold open office hours on Thursday, January 11, via Zoom. Zoom invite details will be on Blackboard.
 
-DUE **Thursday, January 14**:
+DUE **Thursday, January 11**:
 * Review [course syllabus](SYLLABUS.md)
 * DOWNLOAD and review [Week 1 guide](https://docs.google.com/presentation/d/1CWfBMEoSHCvFx0WdQB7-BuJkrtODb3ga_s1rdj0_5q4/edit?usp=sharing)
 * Read [Rachel Green, Web Work - A History of Net Art](week_01/Rachel-Green-Web-Work-A-History-of-Net-Art-WEEK-01.pdf)
@@ -51,7 +51,7 @@ DUE **Thursday, January 14**:
 ### Week 2
 #### Week of January 16, 2024: Computing in Design and Arts Practices
 
-DUE **Thursday, January 19**:
+DUE **Thursday, January 18**:
 * DOWNLOAD and review [Week 2 guide](https://docs.google.com/presentation/d/1eJpnWnj7eaZ4ezTom1rtXaewIAAxGGN9wRQdRqQTwRE/edit?usp=sharing)
 * Read [Janet Murray, Hamlet on the Holodeck: Chapter 3](week_02/Janet-Murray-Hamlet-on-the-Holodeck-Chapter-3-WEEK-02.pdf)
 * Watch [Daniel Shiffman, Git and GitHub for Poets](https://www.youtube.com/watch?v=BCQHnlnPusY)
@@ -66,7 +66,7 @@ DUE **Thursday, January 19**:
 ### Week 3
 #### Week of January 23, 2024: A Brief History of (Digital, and other) Media in Art
 
-DUE **Thursday, January 26**:
+DUE **Thursday, January 25**:
 * DOWNLOAD and review [Week 3 guide](https://docs.google.com/presentation/d/1l9JQIzBcL0MjvTACfpybLckH2I715cSbrfZn5sE8Ps8/edit?usp=sharing)
 * [Watch Documentary: Lo and Behold, Werner Herzog (2016)](https://www.dailymotion.com/video/x8njx91)
 * Read [Chris Salter, Entangled](/week_03_week_of_01-25-2021/readings/Chris-Salter-Entangled-WEEK-03.pdf)
@@ -79,7 +79,7 @@ DUE **Thursday, January 26**:
 ### Week 4
 #### Week of January 30, 2022: Media Theory, Part 1
 
-DUE **Thursday, February 2**:
+DUE **Thursday, February 1**:
 * DOWNLOAD and review [Week 4 guide](/week_04_week_of_02-01-2021/wk04_mediatheory1.pdf)
 * [Watch Lecture: Hot Media, Cool Semiotics, Part 1](https://vimeo.com/456042103/5ec7e1ceeb)
 * Read [Marshall McLuhan, Understanding Media: Media Hot and Cold](/week_04_week_of_02-01-2021/readings/Marshall-McLuhan-Understanding-Media-Media-Hot-and-Cold-WEEK-04.pdf)
@@ -101,7 +101,7 @@ https://uic.zoom.us/rec/share/-ggULwkG7R8QS_a0G77oI8KTACBM2BvG-NZO7CF5d4OF7MpVQp
 ### Week 5
 #### Week of February 6, 2022: Media Theory, Part 2
 
-DUE **Thursday, February 9**:
+DUE **Thursday, February 8**:
 * DOWNLOAD and review [Week 5 guide](/week_05_week_of_02-08-2021/wk05_mediatheory2.pdf)
 * Watch [The Medium is the Message Minisode](https://www.youtube.com/watch?v=OseOb_wBsi4&ab_channel=FoldingIdeas)
 * Read [Cathy O'Neil, Weapons of Math Destruction: 'Introduction', 'Chapter 1', 'Chapter 3', and 'Chapter 5'](/week_05_week_of_02-08-2021/readings/Cathy-O-Neil-Weapons-of-Math-Destruction-Intro-Ch-1-3-5-WEEK-05.pdf)
@@ -110,15 +110,9 @@ DUE **Thursday, February 9**:
 * In Atom, create a new markdown file named 'week-05-o-neil.md' and save it in your 'idea-120-responses' repository project folder. In this file give an example in about 3 paragraphs of a 'WMD' as O'Neil describes it.
 * Push this file to your repository
 
-DUE **Thursday, February 16**:
+DUE **Thursday, February 13**:
 * Final GitHub Poetry Project DUE
-
-Tuesday Recording:
-https://uic.zoom.us/rec/share/-eieDzKuAC2c97MhhFeWeu8YFQo-QSXrc87PfPKBU-X2cVjS734o9p2G3tot_Oyu.Mwk4hAEkkS8JriGu
-
-Thursday Recording:
-https://uic.zoom.us/rec/share/iCwbO273-ZEKPJwqzDsXFALPVvouGHHaBxvXGuBIy8R8neXzysTy4tfyjAz32sch.k54_LtYTDHy41n09
-
+<!--
 ***
 
 ## Unit 2: Digital Literacy and Online Content Creation
@@ -128,7 +122,7 @@ https://uic.zoom.us/rec/share/iCwbO273-ZEKPJwqzDsXFALPVvouGHHaBxvXGuBIy8R8neXzys
 
 One-on-one meetings this week before midterm grades are submitted
 
-DUE **Thursday, February 16**:
+DUE **Thursday, February 15**:
 * DOWNLOAD and review [Week 6 guide](https://docs.google.com/presentation/d/1HCValVmwd-A-Os9qooaZWzw6UR-sHtBnj5UlPVY42z8/edit?usp=sharing)
 * Read [Janet Murray, Hamlet on the Holodeck: Chapter 9](/week_06_week_of_02-15-2021/readings/Janet-Murray-Hamlet-On-the-Holodeck-Chapter-9-WEEK-06.pdf)
 * Read W3C's [HTML Media Tutorial from 'HTML Media' to 'HTML YouTube', ](https://www.w3schools.com/html/default.asp)
