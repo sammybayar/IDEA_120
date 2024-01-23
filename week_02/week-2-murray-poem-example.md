@@ -20,6 +20,6 @@ from Paris to the CD-ROM
 
 ![Godzilla](assets/gojira_poster.jpg)
 
-INFOCOM
-Lots of kewl video games
-text adventures
+INFOCOM  
+Lots of kewl video games  
+text adventures  
