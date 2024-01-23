@@ -14,5 +14,7 @@ from Paris to the CD-ROM
 
 ![Ted Nelson](https://history-computer.com/wp-content/uploads/2021/10/Ted-nelson-1999.jpg)
 
+![Ted Nelson](TN.jpg)
+
 ![Infocom](https://i0.wp.com/boingboing.net/wp-content/uploads/2020/09/infocom.jpg?fit=1&resize=620%2C4000&ssl=1)
 
