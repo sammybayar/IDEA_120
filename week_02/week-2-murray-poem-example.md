@@ -19,3 +19,7 @@ from Paris to the CD-ROM
 ![Infocom](https://i0.wp.com/boingboing.net/wp-content/uploads/2020/09/infocom.jpg?fit=1&resize=620%2C4000&ssl=1)
 
 ![Godzilla](assets/gojira_poster.jpg)
+
+INFOCOM
+Lots of kewl video games
+text adventures
