@@ -69,7 +69,7 @@ DUE **Thursday, January 18**:
 DUE **Thursday, January 25**:
 * DOWNLOAD and review [Week 3 guide](https://docs.google.com/presentation/d/1l9JQIzBcL0MjvTACfpybLckH2I715cSbrfZn5sE8Ps8/edit?usp=sharing)
 * [Watch Documentary: Lo and Behold, Werner Herzog (2016)](https://www.dailymotion.com/video/x8njx91)
-* Read [Chris Salter, Entangled](/week_03_week_of_01-25-2021/readings/Chris-Salter-Entangled-WEEK-03.pdf)
+* Read [Chris Salter, Entangled](week_03/Chris-Salter-Entangled-WEEK-03.pdf)
 * Respond to the reading by creating a new markdown file named 'week-03-salter.md' in your 'idea-120-responses' repository and write 2-3 paragraphs that explore what contemporary tools (digital or physical) could be used to create art that could be considered a *Gesamtkunstwerk*. Is there an example in the Rhizome Anthology that could qualify?
  * Be sure to format your writing (including a header for your title) using [markdown syntax](https://guides.github.com/features/mastering-markdown/) and add a hidden message (or [ASCII-text-image](https://www.asciiart.eu/art-and-design/mona-lisa)) using [HTML comments](https://www.w3schools.com/html/html_comments.asp)
 * Read the description for [Project 1: GitHub Poetry (due week 5)](/week_03_week_of_01-25-2021/project-1-github-poetry.md) and follow the instructions there to create a GitHub pages site
