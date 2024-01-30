@@ -83,7 +83,8 @@ DUE **Thursday, February 1**:
 * DOWNLOAD and review [Week 4 guide](https://docs.google.com/presentation/d/1tO_XRSenVBaUrwiz4GPx5GNjthePj0dTrfDvJ81npoQ/edit?usp=sharing)
 * [Watch Lecture: Hot Media, Cool Semiotics, Part 1](https://vimeo.com/456042103/5ec7e1ceeb)
 * Read [Marshall McLuhan, Understanding Media: Media Hot and Cold](/week_04_week_of_02-01-2021/readings/Marshall-McLuhan-Understanding-Media-Media-Hot-and-Cold-WEEK-04.pdf)
-* Read [Roland Barthes, Image-Music-Text: 'The Rhetoric of the Image'](/week_04_week_of_02-01-2021/readings/Roland-Barthes-Image-Music-Text-The-Rhetoric-of-the-Image-WEEK-04.pdf)
+* Read [Roland Barthes, "The Rhetoric of the Image," Image Music Text](week_04/Roland-Barthes-Image-Music-Text-The-Rhetoric-of-the-Image-WEEK-04.pdf)
+* Read [Higgins & Kahn "First Generation Poetry Generators," Mainframe Experimentalism](week_03/Hannah-Higgins-Douglas-Kahn-Mainframe-Experimentalism-First-Generation-Poetry-Generators-WEEK-05.pdf)
 * Create a new markdown file named 'week-04-response.md' and save it in your 'idea-120-responses' repository project folder. In this file, give an example of hot media and an example of cold media with your reasoning for each. Provide images.
 
  * Read W3C's [HTML Tutorial from 'HTML Introduction' to 'HTML Emojis'](https://www.w3schools.com/html/default.asp)
