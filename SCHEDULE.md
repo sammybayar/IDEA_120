@@ -84,9 +84,8 @@ DUE **Thursday, February 1**:
 * [Watch Lecture: Hot Media, Cool Semiotics, Part 1](https://vimeo.com/456042103/5ec7e1ceeb)
 * Read [Marshall McLuhan, Understanding Media: Media Hot and Cold](/week_04_week_of_02-01-2021/readings/Marshall-McLuhan-Understanding-Media-Media-Hot-and-Cold-WEEK-04.pdf)
 * Read [Roland Barthes, Image-Music-Text: 'The Rhetoric of the Image'](/week_04_week_of_02-01-2021/readings/Roland-Barthes-Image-Music-Text-The-Rhetoric-of-the-Image-WEEK-04.pdf)
-* Create a new markdown file named 'week-04-response.md' and save it in your 'idea-120-responses' repository
-* In this response, provide an example of a kind of image that would be read differently if it were seen in another medium (for example, posts by Instagram 'influencers', food photography, or [click-bait news articles](https://en.wikipedia.org/wiki/Clickbait)). What are the 'three messages' (as laid out by Barthes) this kind of image contains?  
- * Save the file and ['stage all' changes in the Git tab](https://flight-manual.atom.io/using-atom/sections/github-package/#stage), add a 'Commit message', click 'Commit to master' and ['Push' the new document to your repository](https://flight-manual.atom.io/using-atom/sections/github-package/#publish-and-push)
+* Create a new markdown file named 'week-04-response.md' and save it in your 'idea-120-responses' repository project folder. In this file, give an example of hot media and an example of cold media with your reasoning for each. Provide images.
+
  * Read W3C's [HTML Tutorial from 'HTML Introduction' to 'HTML Emojis'](https://www.w3schools.com/html/default.asp)
  * Read W3C's [CSS Tutorial from 'CSS Introduction' to 'CSS Position'](https://www.w3schools.com/css/default.asp)
 
@@ -98,11 +97,10 @@ DUE **Thursday, February 1**:
 DUE **Thursday, February 8**:
 * DOWNLOAD and review [Week 5 guide](/week_05_week_of_02-08-2021/wk05_mediatheory2.pdf)
 * Watch [The Medium is the Message Minisode](https://www.youtube.com/watch?v=OseOb_wBsi4&ab_channel=FoldingIdeas)
-* Read [Cathy O'Neil, Weapons of Math Destruction: 'Introduction', 'Chapter 1', 'Chapter 3', and 'Chapter 5'](/week_05_week_of_02-08-2021/readings/Cathy-O-Neil-Weapons-of-Math-Destruction-Intro-Ch-1-3-5-WEEK-05.pdf)
+* Read [Ezra Klein, "I Didn't Want it to be True..." New York Times, 2022](week_05/readings/Ezra Klein _  I Didn’t Want It to Be True, but the Medium Really Is the Message - The New York Times.pdf)
 * Read [Marshall Mcluhan, Understanding Media: The Medium is the Message](/week_05_week_of_02-08-2021/readings/Marshall-McLuhan-Understanding-The-Medium-is-the-Message-WEEK-05.pdf)
-* Read [Higgins and Kahn, Mainframe Experimentalism: First Generation Poetry Generators](/week_05_week_of_02-08-2021/readings/Hannah-Higgins-Douglas-Kahn-Mainframe-Experimentalism-First-Generation-Poetry-Generators-WEEK-05.pdf)
-* In Atom, create a new markdown file named 'week-05-o-neil.md' and save it in your 'idea-120-responses' repository project folder. In this file give an example in about 3 paragraphs of a 'WMD' as O'Neil describes it.
-* Push this file to your repository
+* In this response, provide an example of a kind of image that would be read differently if it were seen in another medium (for example, posts by Instagram 'influencers', food photography, or [click-bait news articles](https://en.wikipedia.org/wiki/Clickbait)). What are the 'three messages' (as laid out by Barthes) this kind of image contains?  
+
 
 DUE **Thursday, February 13**:
 * Final GitHub Poetry Project DUE
