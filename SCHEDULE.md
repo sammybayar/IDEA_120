@@ -96,7 +96,7 @@ DUE **Thursday, February 1**:
 #### Week of February 6, 2022: Media Theory, Part 2
 
 DUE **Thursday, February 8**:
-* DOWNLOAD and review [Week 5 guide](/week_05_week_of_02-08-2021/wk05_mediatheory2.pdf)
+* DOWNLOAD and review [Week 5 guide](https://docs.google.com/presentation/d/1cUy8bsfi3pMml0vYP1CMA6J7GaoEeghDlgM3k0Twzo4/edit?usp=sharing)
 * Watch [The Medium is the Message Minisode](https://www.youtube.com/watch?v=OseOb_wBsi4&ab_channel=FoldingIdeas)
 * Read [Ezra Klein, I Didn't Want it to be True, New York Times, 2022](week_05/readings/EzraKlein.pdf)
 * Read [Marshall Mcluhan, Understanding Media: The Medium is the Message](/week_05_week_of_02-08-2021/readings/Marshall-McLuhan-Understanding-The-Medium-is-the-Message-WEEK-05.pdf)
