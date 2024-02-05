@@ -103,7 +103,7 @@ DUE **Thursday, February 8**:
 * In this response, provide an example of a kind of image that would be read differently if it were seen in another medium (for example, posts by Instagram 'influencers', food photography, or [click-bait news articles](https://en.wikipedia.org/wiki/Clickbait)). What are the 'three messages' (as laid out by Barthes) this kind of image contains?  
 
 [PROJECT 1: GITHUB POETRY](week_05/PROJECT_1.md)  
-DUE ** Thursday, February 15 **
+DUE **Thursday, February 15**
 
 <!--
 ***
