@@ -102,8 +102,8 @@ DUE **Thursday, February 8**:
 * Read [Marshall Mcluhan, Understanding Media: The Medium is the Message](/week_05_week_of_02-08-2021/readings/Marshall-McLuhan-Understanding-The-Medium-is-the-Message-WEEK-05.pdf)
 * In this response, provide an example of a kind of image that would be read differently if it were seen in another medium (for example, posts by Instagram 'influencers', food photography, or [click-bait news articles](https://en.wikipedia.org/wiki/Clickbait)). What are the 'three messages' (as laid out by Barthes) this kind of image contains?  
 
-
-DUE **Thursday, February 13**:
+[PROJECT 1: GITHUB POETRY](week_05/PROJECT_1.md)
+DUE **Thursday, February 15**:
 * Final GitHub Poetry Project DUE
 <!--
 ***
