@@ -16,8 +16,8 @@ Consider what "uncreative writing" means, the rules of "flarf," and how it may b
 ## Setting up GitHub Pages
 
 1. Create a new repository in your Github account, and name it "PROJECT_1_YOUR_USERNAME."
-2. Use [this guide to create a new GitHub pages repository](https://docs.github.com/en/github/working-with-github-pages/creating-a-github-pages-site). Stop when you get to the "Creating your site" header
-3. Create two new files in your repository, and save the first as "index.html" and the second as "style.css." Make sure they are in the main folder of your new repository. Use what you learned in the [HTML Tutorial](https://www.w3schools.com/html/default.asp) and [CSS Tutorial](https://www.w3schools.com/css/default.asp) to do Step 4 and 5 from the project description above
+2. Use [this guide to create a new GitHub pages repository](https://docs.github.com/en/github/working-with-github-pages/creating-a-github-pages-site). Stop when you get to the "Creating your site" header.
+3. Create two new files in your repository, and save the first as "index.html" ([there's a sample file here](https://github.com/UICIDEAS/IDEA_120/blob/Spring2024/website_demo/index.html)) and the second as "style.css." Make sure they are in the main folder of your new repository. Use what you learned in the [HTML Tutorial](https://www.w3schools.com/html/default.asp) and [CSS Tutorial](https://www.w3schools.com/css/default.asp) to do Step 4 and 5 from the project description above.
 
 ## If you need one-on-one help
 
