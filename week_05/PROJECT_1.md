@@ -19,6 +19,16 @@ Consider what "uncreative writing" means, the rules of "flarf," and how it may b
 2. Use [this guide to create a new GitHub pages repository](https://docs.github.com/en/github/working-with-github-pages/creating-a-github-pages-site). Stop when you get to the "Creating your site" header.
 3. Create two new files in your repository, and save the first as "index.html" ([there's a sample file here](https://github.com/UICIDEAS/IDEA_120/blob/Spring2024/website_demo/index.html)) and the second as "style.css" ([a sample file here](https://github.com/UICIDEAS/IDEA_120/blob/Spring2024/website_demo/style.css)). Make sure they are in the main folder of your new repository. Use what you learned in the [HTML Tutorial](https://www.w3schools.com/html/default.asp) and [CSS Tutorial](https://www.w3schools.com/css/default.asp) to do Step 4 and 5 from the project description above.
 
+## FLARF POEM WEBSITE EXAMPLES:  
+
+https://tiffanyfunk.com/lina_park_poem/  
+https://dking30.github.io/HelpingHand/  
+https://annac0nda.github.io/down/  
+https://phong7.github.io/Project-1-GitHubPoetry/  
+https://laycolor101.github.io/Project-1-GitHub-Poetry/  
+
+"Cookies" repository example: https://github.com/fetalcircuit/lina_park_poem
+
 ## If you need one-on-one help
 
 If you need one-on-one help with this project, [schedule a one on one appointment with me using Calendly](https://calendly.com/tfunk4/office-hours-meeting)
