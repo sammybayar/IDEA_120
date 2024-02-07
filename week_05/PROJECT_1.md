@@ -3,7 +3,7 @@
 ## Project Description and Criteria
 ** Due Thursday, February 15, 2024 **
 
-Read [K. Silem Mohammad's Spooked and Considering How Spooky Deer Are](week_03/K-Silem-Mohammad-Spooked-and-Considering-How-Spooky-Deer-Are.pdf).
+Read [K. Silem Mohammad's Spooked and Considering How Spooky Deer Are](readings/K-Silem-Mohammad-Spooked-and-Considering-How-Spooky-Deer-Are.pdf).
 
 Consider what "uncreative writing" means, the rules of "flarf," and how it may be considered a type of generative web art. What kinds of webpages could be produced using randomized rules such as these? Use your GitHub account to create a Flarf poem based on these rules:
 
