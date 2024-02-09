@@ -35,7 +35,8 @@ In this document, under each week there are a list of assigned videos, texts, an
 
 ### Tutorial Videos  
 
-All the tutorial video demos for the course are in a Vimeo showcase, accessed here: https://vimeo.com/showcase/10964162
+All the tutorial video demos for the course are in a Vimeo showcase, accessed here: 
+https://vimeo.com/showcase/10964162
 
 Password: idea2024
  
